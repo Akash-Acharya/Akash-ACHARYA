@@ -1,9 +1,9 @@
 ### Hi there, It's Akash 👋
 
 
- 🔭 I’m currently working on ... Music player app
- 🌱 I’m currently exploring ... Data structures and Algorithms
- 📫 How to reach me: ... akashacharya127@gmail.com
+ - 🔭 I’m currently working on ... Music player app
+ - 🌱 I’m currently exploring ... Data structures and Algorithms
+ - 📫 How to reach me: ... akashacharya127@gmail.com
 
 <!--
 **Akash-Acharya/Akash-ACHARYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
