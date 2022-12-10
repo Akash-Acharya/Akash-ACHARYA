@@ -1,7 +1,7 @@
 ### Hi there, It's Akash 👋
 
 
- - 🔭 I’m currently working on Music player app.
+ - 🔭 I’m currently working on Web Development.
  - 🌱 I’m currently exploring Data structures and Algorithms.
  - 📫 How to reach me: akashacharya127@gmail.com.
  - 👯 I’m looking to collaborate on open source projects.
