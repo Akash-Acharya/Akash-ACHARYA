@@ -1,8 +1,8 @@
 ### Hi there, It's Akash 👋
 
 
- - 🔭 I’m currently working on Progress OpenEdge.
- - 🌱 I’m currently exploring Progress Developer Studio, OOABL , OpenEdge ABL , Serialization and Deserialization , Json String , Caching.
+ - 🔭 I’m currently working on Progress OpenEdge ABL .
+ - 🌱 I’m currently exploring Progress Developer Studio, OOABL , Serialization and Deserialization , Json String , Caching.
  - 📫 How to reach me: akashacharya127@gmail.com.
  - 👯 I’m looking to collaborate on open source projects.
 
